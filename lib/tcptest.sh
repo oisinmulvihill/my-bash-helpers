@@ -10,6 +10,9 @@
 #
 # Tested on my Mac 10.9.4 and ubuntu VMs.
 #
+# Release on MIT License
+# https://raw.githubusercontent.com/oisinmulvihill/my-bash-helpers/master/LICENSE
+#
 # Oisin Mulvihill
 # 2014-08-20
 #

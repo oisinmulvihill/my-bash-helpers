@@ -7,6 +7,9 @@
 # The function will first test for the presence of the setup.py file. If its
 # not present it will exit print an error.
 #
+## Release on MIT License
+# https://raw.githubusercontent.com/oisinmulvihill/my-bash-helpers/master/LICENSE
+#
 # Oisin Mulvihill
 # 2014-08-20
 #
